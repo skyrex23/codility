@@ -35,7 +35,7 @@
  * - all but one of the values in A occur an even number of times.
  */
 
-package lessons;
+package lessons.lesson02;
 
 import java.util.Arrays;
 import java.util.HashSet;

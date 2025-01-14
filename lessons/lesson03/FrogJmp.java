@@ -29,7 +29,7 @@
  * - X ≤ Y
  */
 
-package lessons;
+package lessons.lesson03;
 
 import java.util.List;
 

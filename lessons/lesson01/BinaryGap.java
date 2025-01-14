@@ -25,7 +25,7 @@
  * N is an integer within the range [1..2,147,483,647].
  */
 
-package lessons;
+package lessons.lesson01;
 
 import java.util.Arrays;
 import java.util.Comparator;

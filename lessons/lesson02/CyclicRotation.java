@@ -16,7 +16,7 @@
  * that, given an array A consisting of N integers and an integer K, returns the array A rotated K times.
  */
 
-package lessons;
+package lessons.lesson02;
 
 import java.util.Arrays;
 import java.util.List;
